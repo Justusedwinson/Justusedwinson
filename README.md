@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Justusedwinson
-- 👀 I’m interested in web development, ux design and Javascript
-- 🌱 I’m currently learning web development, UI/UX design and JavaScript...
-- 💞️ I’m looking to collaborate on Web development project and Mobile app Design
+- 👀 I’m interested in Cloud Architecture, DevOps and Cloud Engineering
+- 🌱 I’m currently on a career path to Cloud Engineering
+- 💞️ I’m looking to collaborate on Cloud based and DevOps projects
 - 📫 How to reach me edwinsonjustus@gmail.com
 
 <!---
