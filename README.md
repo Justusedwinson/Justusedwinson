@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Justusedwinson
-- 👀 I’m interested in Cloud Architecture, DevOps and Cloud Engineering
+- 👀 I’m interested in IT Infrastructure, DevOps and Cloud Engineering
 - 🌱 I’m currently on a career path to Cloud Engineering
 - 💞️ I’m looking to collaborate on Cloud based and DevOps projects
 - 📫 How to reach me edwinsonjustus@gmail.com
